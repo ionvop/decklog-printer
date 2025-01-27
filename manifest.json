@@ -1,0 +1,11 @@
+{
+    "name": "Deck Log Printer",
+    "description": "Generate a printable decklist document in one click.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+}
